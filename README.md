@@ -22,7 +22,7 @@ This project is a simple React application that fetches data from the PokeAPI to
 - Install dependencies: 
   
   **bash**
-   Copy code
+ Copy code
 - npm install
 
 ## Usage
