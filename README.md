@@ -16,19 +16,18 @@ This project is a simple React application that fetches data from the PokeAPI to
    git clone https://github.com/nouhailamadrani1/ReactAndPok-monAPI.git
 ## Navigate into the project directory:
 
- ```bash
+ bash
 Copy code
 cd pokemon-react-app
 Install dependencies:
-
- ```bash
+ bash
 Copy code
 npm install
 
 ## Usage
 Start the development server:
 
- ```bash
+ bash
 Copy code
 npm run dev
 Open your browser and navigate to http://localhost:5173/ to view the app.
@@ -37,5 +36,5 @@ Open your browser and navigate to http://localhost:5173/ to view the app.
 React
 Bootstrap
 Credits
-This project was created by Nouhaila Madrani.
+This project was created by ## Nouhaila Madrani.
 
