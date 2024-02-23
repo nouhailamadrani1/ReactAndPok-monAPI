@@ -35,6 +35,7 @@ Open your browser and navigate to http://localhost:5173/ to view the app.
 ## Technologies Used
 React
 Bootstrap
-Credits
-This project was created by ## Nouhaila Madrani.
+
+## Credits
+This project was created byNouhaila Madrani.
 
