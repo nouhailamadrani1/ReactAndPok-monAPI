@@ -16,21 +16,22 @@ This project is a simple React application that fetches data from the PokeAPI to
    git clone https://github.com/nouhailamadrani1/ReactAndPok-monAPI.git
 ## Navigate into the project directory:
 
- bash
-Copy code
-cd pokemon-react-app
-Install dependencies:
- bash
-Copy code
-npm install
+-  bash
+- Copy code
+- cd pokemon-react-app
+- Install dependencies:
+  
+-  bash
+- Copy code
+- npm install
 
 ## Usage
 Start the development server:
 
- bash
-Copy code
-npm run dev
-Open your browser and navigate to http://localhost:5173/ to view the app.
+-  bash
+- Copy code
+- npm run dev
+- Open your browser and navigate to http://localhost:5173/ to view the app.
 
 ## Technologies Used
 React
